@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/vashishthharish17/vashishthharish17/_apis/build/status/harishv17.ClientRestAPI?branchName=master)](https://dev.azure.com/vashishthharish17/vashishthharish17/_build/latest?definitionId=2&branchName=master)
+
 # ClientRestAPI
 A reference example for Spring mvc Rest API
 
